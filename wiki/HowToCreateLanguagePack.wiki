@@ -23,6 +23,7 @@ A language pack extends !AnySoftKeyboard with new keyboard layouts and suggestio
  # Select "Existing Projects into Workspace" from the popup dialog
  # Select the archive file radio-button and point to the downloaded template file.
  # Finish wizard 
+ # Checkout /trunk/AnySoftKeyboardAPI project, and include that into your project.
 
 This will create a new project in your Eclipse called *"!AnySoftKeyboardLanguagePackTemplate"*
 
@@ -38,6 +39,12 @@ The package includes keyboard layouts and dictionary files. Both are optional, y
 === Keyboard layout ===
 Place your revised layout in the res/xml folder. You can start with the provided *qwerty.xml* file, which is a simple English layout.
 Edit *"res/xml/keyboards.xml"* to reflect your layout(the XML file contains explanations about its structure). 
+In the header of the keyboard XML definition include a reference to the API:
+{{{
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ask="http://schemas.android.com/apk/res/com.anysoftkeyboard.languagepack.yourtemplate"
+}}}
+_replace *com.anysoftkeyboard.languagepack.yourtemplate* with your package name_
 
 === Dictionary ===
 Read [http://code.google.com/p/softkeyboard/wiki/BinaryDictionaries here] how to create binary dictionary.
