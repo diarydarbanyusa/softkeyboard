@@ -1,8 +1,13 @@
 #summary The versions changes log - what changed with each version
 #labels Featured
 = Upcoming version =
-= ???? v69 =
- * Something
+= 20120423 v69 =
+ * Crashes on system-app changes.
+ * Several uppercase related bug fixes.
+ * Suggestions are now refreshed when tapping on a new word in the textbox.
+ * Some UI refinements.
+ * New translations: IT, BR-PT, LT, TA, TL (Filipino), FR, ES, SL, CA, EL, RU, HE.
+ * Other bug fixes.
 All requirements can be seen [http://s.evendanan.net/ask_r69 here]
 
 = Latest released version =
