@@ -1,6 +1,17 @@
 #summary The versions changes log - what changed with each version
 #labels Featured
 = Upcoming version =
+??
+
+= Latest released version =
+
+= 20120425 v70 =
+ * Various bug fixes and crashes.
+ * ES translations fix.
+ * Suggestions related fixes.
+ * Performance improvements.
+All requirements can be seen [http://s.evendanan.net/ask_r70 here]
+
 = 20120423 v69 =
  * Crashes on system-app changes.
  * Several uppercase related bug fixes.
@@ -9,8 +20,6 @@
  * New translations: IT, BR-PT, LT, TA, TL (Filipino), FR, ES, SL, CA, EL, RU, HE.
  * Other bug fixes.
 All requirements can be seen [http://s.evendanan.net/ask_r69 here]
-
-= Latest released version =
 
 = 20120228 v67 =
  * Contacts dictionary fix.
