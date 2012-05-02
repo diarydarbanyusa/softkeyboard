@@ -1,36 +1,3 @@
-#summary Development tools used in this project
+#summary moved
 #labels Featured
-
-= Introduction =
-
-This page includes the development tools I used for developing !AnySoftKeyboard
-
-== SDK ==
- * Android SDK 1.5 r3
-  * Download from [http://developer.android.com/sdk/1.5_r3/index.html here]
-  * Install instructions [http://developer.android.com/sdk/1.5_r3/installing.html here]
-
-== IDE ==
- * Eclipse
-  * Download from [http://www.eclipse.org/downloads/ here]. I used the Java Developers edition.
-
-== SVN ==
- * Subclipse for Eclipse (http://subclipse.tigris.org/)
-  * Download and install instructions are [http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA here]
- * TortoiseSVN Windows explorer plugin.
-  * Download from [http://www.google.com/url?sa=t&source=web&ct=res&cd=1&url=http%3A%2F%2Ftortoisesvn.tigris.org%2F&ei=Nb-DSvPgPI-5jAf63rmRCA&usg=AFQjCNE3AGLQNZb9GvR1WVhdQ8oQGhIG7Q&sig2=GoWE4CpmWuLpP0uGEIzxgA here]
-
-== NDK ==
-Needed *only* for native (C++) code parts. If you're not touching C++ code, you do not need to install this
- * Android 1.6 NDK r4
-   * Download from [http://developer.android.com/sdk/ndk/ here]
-   * Install instructions and usage [NDKInstallationAndUsage here]
-
-== Word list generator ==
-For the dictionaries, I used a simple C# application I've wrote. You can download it from [http://softkeyboard.googlecode.com/files/WordListCreator.zip here]. The source code is [http://softkeyboard.googlecode.com/files/WordListCreator_source.zip here].
-For creating a word list, I suggest using forums or other dialog-centric sites, since most of the time we use the phone for dialogs, so it is nice that the dictionary is dialog oriented.
-
-== Images ==
- * PNG is a very good image container for development. It is lossless, and creates very small files. I used [http://optipng.sourceforge.net/ OptiPNG] to make the images even smaller.
-
-  
+How to build !AnySoftKeyboard wiki can be found here: https://github.com/AnySoftKeyboard/AnySoftKeyboard/wiki/How-to-Build-AnySoftKeyboard
