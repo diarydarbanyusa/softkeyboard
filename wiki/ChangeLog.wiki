@@ -1,9 +1,26 @@
 #summary The versions changes log - what changed with each version
 #labels Featured
 = Upcoming version =
-??
 
 = Latest released version =
+= v74 =
+ * Word suggestions restart revision.
+ * Various bug fixes.
+ * Translations: CA, EL, ES, FR, IT, LT, PL, PT, pt-BR, tl(fil).
+All requirements can be seen [http://s.evendanan.net/ask_r74 here]
+
+= v72 =
+ * Removed the BETA notification. My bad.
+All requirements can be seen [http://s.evendanan.net/ask_r72 here]
+
+= v71 =
+ * Support for MIPS devices.
+ * Emoticon+Backspace bug fix.
+ * Shift state on popup keyboards fix.
+ * Missing ENTER icon in some places.
+ * New translations: MY, PL, TL.
+ * Other bug fixes.
+All requirements can be seen [http://s.evendanan.net/ask_r71 here]
 
 = 20120425 v70 =
  * Various bug fixes and crashes.
