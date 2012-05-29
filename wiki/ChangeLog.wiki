@@ -3,7 +3,7 @@
 = Upcoming version =
 
 = Latest released version =
-= v74 =
+= 20120528 v74 =
  * Word suggestions restart revision.
  * Various bug fixes.
  * Translations: CA, EL, ES, FR, IT, LT, PL, PT, pt-BR, tl(fil).
